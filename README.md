@@ -17,6 +17,10 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<br>
+![Typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+![Redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=8E2DE2)
+![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 
 
 
