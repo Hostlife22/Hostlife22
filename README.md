@@ -5,6 +5,8 @@
 - 📫 How to reach me: sima.serafi2@mail.ru
 - ⚡ Fun fact: I'm comming to teen
 
+  <img align="right" alt="GIF" src="https://github.com/Hostlife22/Hostlife22/blob/master/cod.gif?raw=true" width="500" height="320" />
+
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
