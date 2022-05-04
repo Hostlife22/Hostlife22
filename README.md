@@ -16,7 +16,7 @@
 <br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![Npm](https://img.shields.io/badge/-npm-grey?style=for-the-badge&logo=npm&logoColor=white&labelColor=8E2DE2)
 <br>
 ![Webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=white&labelColor=8E2DE2)
 ![Vite](https://img.shields.io/badge/-vite-grey?style=for-the-badge&logo=vite&logoColor=white&labelColor=8E2DE2)
@@ -25,6 +25,10 @@
 ![Typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 ![Redux](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=8E2DE2)
 ![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+<br>
+![Gulp](https://img.shields.io/badge/-gulp-grey?style=for-the-badge&logo=gulp&logoColor=white&labelColor=8E2DE2)
+![Pug](https://img.shields.io/badge/-pug-grey?style=for-the-badge&logo=pug&logoColor=white&labelColor=8E2DE2)
+![yarn](https://img.shields.io/badge/-yarn-grey?style=for-the-badge&logo=yarn&logoColor=white&labelColor=8E2DE2)
 
 
 
