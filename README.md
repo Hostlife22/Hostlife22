@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 <br>
 ![Ejs](https://img.shields.io/badge/-ejs-grey?style=for-the-badge&logo=ejs&logoColor=white&labelColor=8E2DE2)
-![Next](https://img.shields.io/badge/-next-grey?style=for-the-badge&logo=next&logoColor=white&labelColor=8E2DE2)
+![Next](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=8E2DE2)
 ![Express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
 
 
