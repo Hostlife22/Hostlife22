@@ -127,7 +127,7 @@
 <br>
 <h2 align="left"> GitHub Stats </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hostlife22&theme=radical&title_color=8E2DE2&text_color=fff" id="counter">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hostlife22&title_color=8E2DE2&text_color=8E2DE2" id="counter">
 </p>
 
 
