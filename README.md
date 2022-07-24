@@ -10,7 +10,7 @@
 <li>🔭&nbsp;&nbsp; I’m currently working on something cool</li>
 <li>🌱&nbsp;&nbsp; I’m currently learning Backend</li>
 <li>💬&nbsp;&nbsp; Ask me about anything related to Javascript/Typescript/React/Next/Express</li>
-<li>📫&nbsp;&nbsp; How to reach me: sima.serafi2@mail.ru</li>
+<li>📫&nbsp;&nbsp; How to reach me: sima.serafim2@mail.ru</li>
 </ul>
 <br>
 <h2 align="left"> When I'm not developing and coding &#128578;</h2>
