@@ -116,18 +116,35 @@ must earn its place.
 
 <br/>
 
+<!-- PROFILE SUMMARY CARDS -->
 <a href="https://github.com/Hostlife22">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hostlife22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=A78BFA&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hostlife22&theme=midnight_purple" height="180" />
 </a>
 <a href="https://github.com/Hostlife22">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hostlife22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hostlife22&theme=midnight_purple" height="180" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Hostlife22">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hostlife22&theme=midnight_purple" height="180" />
+</a>
+<a href="https://github.com/Hostlife22">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hostlife22&theme=midnight_purple&utcOffset=3" height="180" />
 </a>
 
 <br/><br/>
 
-<!-- STREAK STATS -->
+<!-- PROFILE DETAILS -->
 <a href="https://github.com/Hostlife22">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hostlife22&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=A78BFA&dates=555555" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hostlife22&theme=midnight_purple" width="720" />
+</a>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/Hostlife22">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hostlife22&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED&hide_border=true" width="720" />
 </a>
 
 </div>
