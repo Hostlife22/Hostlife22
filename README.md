@@ -1,217 +1,187 @@
-# Serafim Sen
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hostlife22&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<!-- ANIMATED HEADER -->
+<a href="https://github.com/Hostlife22">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Serafim+Sen;Full+Stack+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- GRADIENT TAGLINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1&section=header" width="100%"/>
+
+<br/>
+
+<!-- PROFILE BADGES -->
+<a href="https://github.com/Hostlife22">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Architecture-A78BFA?style=for-the-badge&logo=target&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Living-Belarus-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-8B5CF6?style=for-the-badge&logo=codementor&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hostlife22&color=A78BFA&style=flat-square&label=visitors" />
+
 </div>
 
-## Senior Full Stack Developer
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
 
-Experienced full-stack developer with over 5 years of expertise in building scalable and efficient web applications. Specialized in JavaScript/TypeScript ecosystems with comprehensive knowledge spanning both frontend and backend technologies.
+<br/>
 
-<br>
+<div align="center">
 
-<img align="right" alt="Coding GIF" src="cod.gif" width="350" height="250" />
+```
+I write code that scales. I build systems that last.
+```
 
-### Professional Summary
+</div>
 
-Seasoned software engineer with a proven track record of delivering high-quality, scalable solutions. I specialize in full-stack development with a focus on modern JavaScript frameworks, cloud technologies, and creating efficient, user-centric applications. Passionate about solving complex technical challenges and driving innovation through clean, maintainable code.
+<br/>
 
-<br><br><br><br><br><br><br><br>
+<!-- ABOUT -->
 
-### 💼 Technical Expertise
+<img src="cod.gif" align="right" width="320" />
 
-#### Languages:
+### `> whoami`
 
-- JavaScript, TypeScript
+Full Stack Engineer crafting high-performance web systems.  
+I design architecture that handles complexity with grace—from  
+real-time data pipelines to pixel-perfect interfaces.
 
-#### Front-End:
+**Currently:** Building production-grade applications with  
+Next.js, Node.js, and cloud-native infrastructure.
 
-- Next.js, React, Remix, Angular, GraphQL, Apollo, Redux, RTK, RTK Query
-- UI Libraries: Material-UI, Bootstrap, Ant Design, Tailwind
+**Philosophy:** Less code, more impact. Every abstraction  
+must earn its place.
 
-#### Back-End:
+<br clear="both"/>
 
-- Node.js (Express, Nest.js), GraphQL, tRPC, WebSocket, MQTT
+<br/>
 
-#### Databases:
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
 
-- PostgreSQL, MySQL, MongoDB, SQLite, Prisma, TypeORM
+<br/>
 
-#### Testing:
+<!-- TECH STACK -->
+<div align="center">
 
-- Playwright, Cypress, Jest, Karma, Jasmine
+### `⚡ Stack`
 
-#### Cloud & DevOps:
+<br/>
 
-- AWS, Google Cloud, Firebase, Cloudflare, Docker, Serverless
+<!-- LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" height="45" />
 
-#### Other Technologies:
+<br/><br/>
 
-- D3, Three.js, Storybook, Stripe, OpenAI, Vercel, Railway, Google API
+<!-- FRONTEND -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,graphql,tailwind,materialui,sass&theme=dark" height="45" />
 
-#### Version Control:
+<br/><br/>
 
-- Git, GitLab, GitHub
+<!-- BACKEND -->
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,graphql&theme=dark" height="45" />
 
-### 👨‍💻 Professional Experience
+<br/><br/>
 
-#### Full Stack Developer
+<!-- DATABASE & CLOUD -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis&theme=dark" height="45" />
 
-- Developed comprehensive web applications with focus on both frontend and backend solutions
-- Created real-time applications and optimized performance for enhanced user experience
-- Implemented automated testing and deployment processes using CI/CD tools
-- Worked with cloud platforms and serverless technologies for scalable infrastructure
+<br/><br/>
 
-#### Frontend Developer
+<!-- DEVOPS & TOOLS -->
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,git,linux,bash&theme=dark" height="45" />
 
-- Built intuitive user interfaces with React/Next.js and modern frontend frameworks
-- Focused on real-time data visualization and notification systems
-- Ensured system reliability and security while maintaining optimal user experience
-- Collaborated in agile environments with daily standups and code reviews
+<br/><br/>
 
-### 📊 GitHub Activity
+<!-- TESTING & BUILD -->
+<img src="https://skillicons.dev/icons?i=jest,cypress,webpack,vite,storybook&theme=dark" height="45" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hostlife22&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hostlife22&layout=compact&theme=tokyonight)
+</div>
 
-### 🎯 Professional Interests
+<br/>
 
-#### Areas of Interest:
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
 
-- **Data Visualization**: Passionate about visualizing complex datasets and creating informative dashboards that help users better understand presented information
-- **Modern Frameworks**: Committed to using and learning the latest versions of popular frameworks and libraries
-- **UI Development**: Creating clean, intuitive UIs that enhance user experience always brings me satisfaction
-- **Technical Challenges**: Love solving complex technical problems that require creative approaches and deep analysis
+<br/>
 
-#### Technology Focus:
+<!-- GITHUB STATS -->
+<div align="center">
 
-- **Architecture**: Building scalable, maintainable systems with clean architecture
-- **Performance**: Optimizing applications for speed and efficiency
-- **Security**: Implementing robust security measures in applications
-- **Automation**: Streamlining development workflows with CI/CD and automation
+### `📊 Metrics`
 
-### 🛠️ Languages and Tools
+<br/>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" /> </a>
-<a href="https://nodejs.org" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    alt="nodejs" width="40" height="40" /> </a>
-   <a href="https://reactjs.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    alt="react" width="40" height="40" /> </a>
-<a href="https://nextjs.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-    alt="nextjs" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    alt="express" width="40" height="40" /> </a>
-    <a href="https://redux.js.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-    alt="css3" width="40" height="40" /> </a>
-<a href="https://getbootstrap.com" target="_blank"><img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap" width="40" height="40" /></a>
-<a href="https://ant.design/" target="_blank"> <img
-    src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
-    alt="ant" width="40" height="40" /> </a>
-<a href="https://mui.com/" target="_blank"> <img
-    src="https://mui.com/static/logo.png"
-    alt="mui5" width="40" height="40" /> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-    alt="tailwindcss" width="40" height="40" /> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-    width="40" height="40" /> </a>
-<a href="https://pugjs.org/api/getting-started.html" target="_blank"> <img
-    src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+pug-1324451462348933576.png"
-    alt="pug" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-    alt="mongodb" width="40" height="40" /> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
-    alt="firebase" width="40" height="40" /> </a>
-    <a href="https://cloud.google.com" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-    height="40" /> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+<a href="https://github.com/Hostlife22">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hostlife22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=A78BFA&count_private=true" />
 </a>
-    <a href="https://git-scm.com/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux" width="40" height="40" /> </a>
-    <a href="https://heroku.com" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://mochajs.org" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-    </a>
-    <a href="https://insomnia.rest/" target="_blank"> <img
-    src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"
-    alt="insomnia" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-    height="40" /> </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
-    alt="webpack" width="40" height="40" /> </a>
-    <a href="https://vitejs.dev/" target="_blank"> <img
-    src="https://vitejs.dev/logo.svg"
-    alt="vite" width="40" height="40" /> </a>
-    <a href="https://gulpjs.com/" target="_blank"> <img
-    src="https://www.svgrepo.com/show/303440/gulp-logo.svg"
-    alt="gulp" width="40" height="40" /> </a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-    alt="gulp" width="40" height="40" /> </a>
-<a href="https://yarnpkg.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-    alt="yarn" width="40" height="40" /> </a>
-<a href="https://eslint.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"
-    alt="eslint" width="40" height="40" /> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
-    alt="ubuntu" width="40" height="40" /> </a>
-<a href="https://prettier.io/" target="_blank"> <img
-    src="https://prettier.io/icon.png"
-    alt="prittier" width="40" height="40" /> </a>
-<a href="https://stylelint.io/" target="_blank"> <img
-    src="https://iconape.com/wp-content/png_logo_vector/stylelint-logo.png"
-    alt="stylelint" width="40" height="40" /> </a>
-    </p>
+<a href="https://github.com/Hostlife22">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hostlife22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+</a>
 
-### 📫 Contact Information
+<br/><br/>
 
-For professional inquiries and collaboration opportunities, feel free to reach out:
+<!-- STREAK STATS -->
+<a href="https://github.com/Hostlife22">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hostlife22&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideNums=c9d1d9&sideLabels=A78BFA&dates=555555" />
+</a>
 
-- Email: sen.serafim.dev@gmail.com
+</div>
 
-<br>
+<br/>
 
-<samp>
-<hr>
-    <p align="center">
-  "Crafting elegant solutions to complex technical challenges"
-    </p>
-<hr>
-</samp>
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+### `🐍 Contributions`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hostlife22/Hostlife22/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hostlife22/Hostlife22/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hostlife22/Hostlife22/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+
+<br/>
+
+<!-- CONTACT -->
+<div align="center">
+
+### `📬 Connect`
+
+<br/>
+
+<a href="mailto:sen.serafim.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sen.serafim.dev-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/Hostlife22">
+  <img src="https://img.shields.io/badge/GitHub-Hostlife22-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,16,29&height=120&section=footer" width="100%"/>
+
+</div>
