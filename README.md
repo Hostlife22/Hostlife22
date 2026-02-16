@@ -8,7 +8,7 @@
 <br/>
 
 <!-- GRADIENT TAGLINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1&section=header" width="100%"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 </div>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1.5&section=header" width="100%"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ must earn its place.
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1.5&section=header" width="100%"/>
 
 <br/>
 
@@ -105,7 +105,7 @@ must earn its place.
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1.5&section=header" width="100%"/>
 
 <br/>
 
@@ -152,7 +152,7 @@ must earn its place.
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1.5&section=header" width="100%"/>
 
 <br/>
 
@@ -174,7 +174,7 @@ must earn its place.
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,16,29&height=1.5&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:7C3AED,100:4C1D95&height=1.5&section=header" width="100%"/>
 
 <br/>
 
@@ -199,6 +199,6 @@ must earn its place.
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,16,29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4C1D95&height=120&section=footer" width="100%"/>
 
 </div>
